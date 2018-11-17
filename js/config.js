@@ -5,7 +5,7 @@ checkup.config = {
 		"url": "https://bcdc-checkup.data.gov.bc.ca"
 	},
 	"status_text": {
-		"healthy": "Situation Normal",
+		"healthy": "Service Up",
 		"degraded": "Degraded Service",
 		"down": "Service Disruption"
 	}
